@@ -5,8 +5,8 @@ Colorized Shaded Relief on selected area of intrest
 
 General Burnside State Park is kentucky's only island state park! It is located on Lake Cumberland.
 
-![Caption of map](Map.jpg)     
-*Caption of Map*
+![haded Relief of General Burnside State Park in Burnside, Ky](Map.jpg)     
+*Shaded Relief of General Burnside State Park in Burnside, Ky *
 
 [Link to high-resolution version](Map.pdf)     
 
