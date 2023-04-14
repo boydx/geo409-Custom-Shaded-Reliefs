@@ -10,4 +10,4 @@ General Burnside State Park is kentucky's only island state park! It is located 
 
 [Link to high-resolution version](Map.pdf)     
 
-Information about the author, data sources, and applications used in the analysis.
+The author of this page is Jack Chappuies. He is a senoir at the University of Kentucky. Data from KyfromAbove.ky.gov was utlized to make these graphics shown above as well as software within ARC GIS Pro. 
